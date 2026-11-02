@@ -13,7 +13,7 @@ Analista de dados em Recife. Coordeno a sustentação de uma plataforma de telem
 
 ### Ferramentas
 
-Python (pandas, matplotlib) · SQL · Power BI · R/Shiny · Streamlit · MongoDB · SQLite · Prefect · Excel
+Python (pandas, matplotlib) · SQL · Power BI · Streamlit · MongoDB · SQLite · Prefect · Excel
 
 ### Contato
 
